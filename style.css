@@ -982,14 +982,12 @@ width: 24px;
         bottom: 360px;
         right: 354px;
     }
-
     .position-bottom {
         position: absolute;
         left: 794px;
         right: 0;
         top: 410px;
     }
-
     .effortlessly {
         font-size: 22px;
         font-weight: 400;
@@ -1000,7 +998,6 @@ width: 24px;
         padding-top: 20px;
         color: #010d3e;
     }
-
     .functional {
         font-size: 22px;
         font-weight: 400;
@@ -1012,7 +1009,6 @@ width: 24px;
         color: #010d3e;
         padding-bottom: 70px !important;
     }
-
     .torus {
         position: absolute;
         top: 403px;
